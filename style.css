@@ -1,0 +1,29 @@
+body {font: 76%/160% arial, helvetica, sans-serif;color: #fff;background-color: #669999;background-image: url(images/bg.jpg);background-attachment:fixed;background-position: center center;background-repeat:no-repeat;margin: 0px;letter-spacing: 1px;}
+
+#center{color: #ffff99;text-align: center;position: absolute;top: 50%;left: 0px;width: 100%;height: 1px;overflow: visible;visibility: visible;display: block;}
+
+#title{background: url(images/bg_title.png) repeat 0% 0%;margin-left: -200px;position: absolute;top: -35px;left: 50%;width: 400px;height: 70px;visibility: visible;padding-top: 10px;}
+
+.headline {font-weight: bold;font-size: 3em;}
+
+a:link, a:visited {color: #ffff99;font-weight: bold;text-decoration: none;outline:none;}
+
+a:hover {;text-decoration: underline;}
+
+.text {color: #003399;font-size: 1em;text-align: left}
+
+#nav {position: absolute;top: -5px;left: -168px;width: 250px;height: auto;visibility: visible;display: block;margin-bottom: 20px;}
+
+#navtop li {list-style-type: circle;color: #fff;}
+
+#navtop li a,#navtop a:visited {color: #fff;outline:none;}
+
+#navtop li a:hover {text-decoration: underline;}
+
+#content {padding-right: 10px;position:absolute;top: 102px;left: 0;width: 530px;height: 190px;display: block;overflow: auto;}
+
+h1,h2,h3 {color: #ccccff;font-size: 1.8em;font-weight: normal;letter-spacing: 1px;margin-top: 0;}
+
+h4,h5,h6 {color: #ccccff;font-size: 1.4em;font-weight: normal;letter-spacing: 1px;}
+
+hr.hr {color: #708090;background-color: #708090;height: 5px;border: 1px solid #fff;clear: both;}
